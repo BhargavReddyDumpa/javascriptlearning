@@ -5,3 +5,5 @@ function greeting(){
 }
 
 var k = 10;
+
+//Hosting is something we can call the function before they declared.
